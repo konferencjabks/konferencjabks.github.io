@@ -800,7 +800,7 @@ a {
 .cid-t04SIwVSdq {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-color: #ebebe9;
+  background-color: #ffffff;
 }
 .cid-t04SIwVSdq img {
   width: 120px;
@@ -1425,6 +1425,27 @@ a {
     width: 175%;
     max-width: calc(100% + 2rem);
     left: -1rem;
+  }
+}
+.cid-t0KwWMnBRe {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-t0KwWMnBRe img {
+  width: 120px;
+  margin: auto;
+}
+.cid-t0KwWMnBRe .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-t0KwWMnBRe .card {
+    max-width: 12.5%;
   }
 }
 .cid-sZweEKz0jc {
